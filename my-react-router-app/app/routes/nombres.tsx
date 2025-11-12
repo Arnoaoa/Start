@@ -16,7 +16,7 @@ export default function Nombres() {
       <ul className="space-y-2">
         {nombres.map((nombre) => (
           <li key={nombre} className="text-xl">
-            {nombre}
+            {nombre}{"okkk"}
           </li>
         ))}
       </ul>
